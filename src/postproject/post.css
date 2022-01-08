@@ -1,0 +1,114 @@
+  /* @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,500);
+*:focus {
+  outline: none;
+}
+ .ppp{ 
+    height: 950px;    
+  }
+  .components{
+position: relative; 
+margin: 20px;
+background-color: cornsilk;
+height: 900px;
+  }
+#header{
+  background-color: brown;
+height: 50%;
+}
+.menu{
+  height: 100px;
+}
+#fullcontent{
+  height: 213px;
+  width: 1260px;
+  background-color: brown;
+  position: relative;
+
+}
+#logo-div{
+   margin-right:200px;
+  height: 110px;
+  width: 790px;
+  background-color: brown;
+  margin-left:290px ;
+  position: relative;
+  top: 0;
+}
+#heading{
+  height: 43px;
+  width: 790px;
+  background-color: brown;
+  margin-left: 290px;
+  position: relative;
+  color: azure;
+  font-weight: 900;
+  font-size: 30px;
+}
+
+#setmiddle{
+  height: 650px;
+  width: 790px;
+  margin-left:290px ;
+  background-color:white;
+  position: relative;
+  border-radius: 25px;
+  border-width:5px;  
+  border-style:groove;
+  padding: 20px;
+}
+.choosename{
+  background-color:white;
+  font-weight: 900px;
+  font-size: 20px;
+  width: 400px;
+  font-weight: bold;
+  margin-top: 40px;
+}
+.inputbox1{
+  background-color:white;
+  font-weight: 900px;
+  font-size: 20px;
+  width: 724px!important;
+  height:46px!important;
+  padding: 20px;
+  font-weight: bold;
+  border-style:groove!important;
+  border-width:2px;
+  margin-top: 40px;
+}
+#input1[type="text"]:hover {
+  border: 2px solid #16a085 !important;
+  transition: 0.1s ease;
+}
+
+#pp{
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+.btndiv{
+margin-top: 30px;
+}
+.btn{
+  background-color: bisque;
+  
+}
+
+#textarea[type="text"]
+{
+  background-color:white;
+  font-weight: 900px;
+  font-size: 20px;
+  width: 724px!important;
+  height:200px!important;
+  padding: 20px;
+  border-style:groove!important;
+  border-width:2px;
+  margin-top: 40px;
+}
+#textarea[type="text"]:hover {
+  border: 2px solid #16a085 !important;
+  transition: 0.1s ease;
+}
+#img{
+  width: auto;
+}  */

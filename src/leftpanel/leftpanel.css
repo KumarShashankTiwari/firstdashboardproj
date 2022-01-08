@@ -1,0 +1,26 @@
+.displayItem {
+  display: grid ;
+} 
+
+/* 
+ul li {
+  display: grid !important;
+} */
+
+.menuiconClass
+{
+  margin: 2vh;
+}
+
+.center {
+   /* color: rgb(37, 38, 37) !important;  */
+  width: 50%;
+ 
+}
+.leftpanell {
+  background-color: rgb(37, 38, 37) !important;
+}
+.myicon{  
+  font-size: small;
+}
+

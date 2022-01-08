@@ -1,0 +1,163 @@
+*:focus {
+  outline: none;
+}
+body {
+  margin: 0;
+  padding: 0;
+  background: #DDD;
+  font-size: 16px;
+  color: #222;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+} 
+.leftheading{
+  font-size: x-large;
+  color: White;
+}
+.par{
+  margin-top: 5vh;
+}
+.whiteColor {
+  color: white;
+}
+
+.inputClass{
+  background: #252625;
+  border: 0px;
+  color: #6e6f6e;
+  margin-left: 2vh;
+}
+.mainDiv
+{
+background-image: url('https://images.pexels.com/photos/443356/pexels-photo-443356.jpeg?auto=compress&amp;cs=tinysrgb&amp;h=550&amp;w=740');
+}
+
+.ii
+{
+background-image: url('./go.ico');
+background-repeat: no-repeat;
+width: 60px;
+color: white;
+height: 40px;
+}
+#gogo{
+    height: 40px;
+    font-size: x-large;
+    width: 20px;
+    margin-right: 100px;
+    position: relative;
+    bottom: 35px;
+    left: 50px;
+    color: white;
+    font-weight: bold;
+}
+.login-boxx {
+  margin-left: 19vh;
+  position: relative;
+  width: 100vh;
+  height: 100vh;
+  border-radius: 2px;
+}
+.lefty {
+  position: absolute;
+  top: 20vh;
+  /* left: 0; */
+  /* margin-left: 20vh; */
+  /* box-sizing: border-box; */
+  padding: 40px;
+   width: 67vh;
+  height: 400px;
+   background-image: url('https://images.pexels.com/photos/443356/pexels-photo-443356.jpeg?auto=compress&cs=tinysrgb&h=800&w=800'); 
+ 
+}
+/* h1 {
+ 
+  font-weight: 300;
+  font-size: 28px;
+} */
+.la{
+  color:#6e6f6e ; 
+}
+
+.margin
+{
+  margin-top: 4vh;
+}
+
+.newloginn{
+  width: 320px!important;
+  background-color: unset;
+  border: 2px!important;
+  border-width: 1px 1px 1px 1px !important;
+  border-style: solid !important;
+  color: #FFF;
+  
+}
+
+.niche{
+  margin-top: 100px;
+}
+.righty {
+  position: absolute;
+  margin-left: 67vh;
+  /* padding-left: 50vh; */
+  top: 20vh;
+  /* right: 127px; */
+  /* box-sizing: border-box; */
+  padding: 40px;
+  width: 99vh;
+  height: 400px;
+  background-color: #252625;
+
+}
+
+fieldset
+{
+  border: 1px solid #6e6f6e !important;
+  margin-top: 3vh !important;
+  height: 56px;
+}
+
+
+legend{
+  color: #6e6f6e;
+  width: auto;
+  margin-left: 1vh !important;
+}
+
+.right.loginwith {
+  display: block;
+  margin-bottom: 1px !important ;
+  font-size: 28px;
+  color:crimson;
+  text-align: center;
+}
+#imgg{
+  width: auto;
+}
+.log{
+  font-weight: bold;
+color:#6e6f6e ;
+}
+#newlogin3{
+position: relative;
+bottom: 42px;
+left: 200px;
+}
+
+#passlabel{
+width:25%;
+}
+
+.login {
+  background-color: dodgerblue !important;
+}
+
+.paddingLeft{
+  float: right;
+  margin-top: -11px;
+}
+
+/* .MuiButton-label {
+  color: white
+} */

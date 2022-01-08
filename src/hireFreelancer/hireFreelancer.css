@@ -1,0 +1,29 @@
+/* .sidelook{
+    background-color: blue;
+    width: fit-content;
+}
+
+.header {
+    width: 100%;
+    height: 60px;
+    background-color: #000;
+    position: fixed;
+    top: 0;
+   
+  }
+
+  .toggle-button {
+    height: 60px;
+    width: 60px;
+    background-color: red;
+    cursor: pointer;
+  }
+    .wrapper {
+      margin-top: 60px;
+    }
+    .nav {
+      background-color: yellow;
+      height: 500px;
+      float: left;
+      transition: width 0.2s ease-in-out;
+    } */

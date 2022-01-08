@@ -1,0 +1,22 @@
+[1215/175003.032:ERROR:file_io.cc(89)] ReadExactly: expected 3248, observed 0
+[1215/175003.032:ERROR:crash_report_database_win.cc(445)] failed to read records
+[1216/104304.036:ERROR:file_io.cc(89)] ReadExactly: expected 3248, observed 0
+[1216/104304.036:ERROR:crash_report_database_win.cc(445)] failed to read records
+[1216/104533.178:ERROR:file_io.cc(89)] ReadExactly: expected 3248, observed 0
+[1216/104533.178:ERROR:crash_report_database_win.cc(445)] failed to read records
+[1216/141841.352:ERROR:process_info.cc(359)] UncheckedAllocate
+[1216/171714.896:ERROR:process_info.cc(359)] UncheckedAllocate
+[1216/172037.294:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\amit\AppData\Local\Google\Chrome\User Data\Crashpad\reports\0b2571cf-c4da-47e8-83d5-64c8e0a7f8fc.dmp: The process cannot access the file because it is being used by another process. (0x20)
+[1217/153925.013:ERROR:process_info.cc(359)] UncheckedAllocate
+[1217/153931.982:ERROR:http_transport_win.cc(276)] WinHttpSendRequest: The operation completed successfully. (0x0)
+[1217/180633.256:ERROR:process_info.cc(359)] UncheckedAllocate
+[1217/180634.752:ERROR:process_info.cc(359)] UncheckedAllocate
+[1217/180636.301:ERROR:process_info.cc(359)] UncheckedAllocate
+[1217/181415.511:ERROR:process_info.cc(359)] UncheckedAllocate
+[1217/181429.009:ERROR:process_info.cc(359)] UncheckedAllocate
+[1217/181522.098:ERROR:process_info.cc(359)] UncheckedAllocate
+[1217/181525.621:ERROR:process_info.cc(359)] UncheckedAllocate
+[1217/181549.084:ERROR:process_info.cc(359)] UncheckedAllocate
+[1217/181605.488:ERROR:process_info.cc(359)] UncheckedAllocate
+[1218/093835.080:ERROR:settings.cc(320)] Settings magic is not 1129342067
+[1218/114203.264:ERROR:process_info.cc(359)] UncheckedAllocate

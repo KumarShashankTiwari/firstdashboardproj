@@ -1,0 +1,22 @@
+/* .footerbar{
+    background-color: lightcyan;
+    color: hsla(0, 0%, 100%, 0.651);
+    font-family: -apple-system, BlinkMacSystemFont, segoe ui, avenir next, avenir,
+     helvetica neue, helvetica, ubuntu, roboto, noto, arial, sans-serif;
+     
+     bottom: 0;
+     width: 100%;
+     max-height: 152px;
+     height: 30px;
+     font-size: 12px;    
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: 0px !important;
+    margin-left: 0px !important;
+}
+.floatRight {
+    float: right;
+} */
